@@ -1,0 +1,13 @@
+:root {
+       --background-color-:rgba(160, 241, 189, 1);
+       --color-: rgba(46, 79, 33, 1) ;
+
+}
+
+#navbarhead{
+color: rgba(46, 79, 33, 1);
+}
+#navbar{
+    background-color: var(--background-color-) !important;
+   padding: 10px;
+}
