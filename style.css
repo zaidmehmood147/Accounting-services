@@ -1,6 +1,7 @@
 :root {
        --background-color-:rgba(160, 241, 189, 1);
        --color-: rgba(46, 79, 33, 1) ;
+       
 
 }
 
@@ -11,3 +12,25 @@ color: rgba(46, 79, 33, 1);
     background-color: var(--background-color-) !important;
    padding: 10px;
 }
+#navbutton  {
+    background-color: var(--color-) !important
+ ;
+ color: white !important;
+ }
+#navbutton:hover{
+    background-color: rgb(86, 139, 7)!important;
+    
+}
+.services:hover { color: black !important;}
+#firstheading {
+    font-size: 60px;
+    color:rgba(46, 79, 33, 1)
+}
+
+#margin {
+    margin-top: 50px;
+   margin-left: 30px;
+} 
+#buttonsection1 {
+    margin-top: 20px;
+ }
