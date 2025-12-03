@@ -1,5 +1,5 @@
 :root {
-    --background-color-: rgb(94, 214, 136);
+    --background-color-: rgba(160, 241, 189, 1);
     --color-: rgba(46, 79, 33, 1);
 }
 
@@ -94,3 +94,9 @@
     background-color: var(--background-color-) !important;
  
  }
+.section2 {
+    color: var(--color-);
+ }
+ #services {
+    margin-top: 30px;
+ } 
